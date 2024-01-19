@@ -1,10 +1,10 @@
-# BALÕES DE CHAT
+# BALÕES DE CONVERSA
 💬INTERFACE DE CONVERSA EM GRUPOS!
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://www.apptuts.net/wp-content/uploads/2016/04/Icon-Ecommerce-chat.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## Descrição do Projeto:
 O projeto consiste em um modelo básico de chat utilizando HTML, CSS para criar uma interface de conversa entre duas pessoas, semelhante ao layout de grupos do Telegram. Cada mensagem no chat possui uma foto de perfil (avatar), o nome da pessoa remetente e um balão de mensagem.
