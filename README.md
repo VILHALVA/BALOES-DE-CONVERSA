@@ -1,15 +1,12 @@
 # BALÕES DE CONVERSA
 💬INTERFACE DE CONVERSA EM GRUPOS!
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
-<img src="FOTO.png" align="center" width="300"> <br>
-
-## Descrição do Projeto:
+## DESCRIÇÃO:
 O projeto consiste em um modelo básico de chat utilizando HTML, CSS para criar uma interface de conversa entre duas pessoas, semelhante ao layout de grupos do Telegram. Cada mensagem no chat possui uma foto de perfil (avatar), o nome da pessoa remetente e um balão de mensagem.
 
-## Estrutura HTML:
+### HTML:
 1. **.chat-container:** Um contêiner que envolve todas as mensagens, definindo uma largura máxima e centralizando o conteúdo.
 
 2. **.message:** Cada mensagem é representada por esse elemento. Ele contém a foto de perfil, o balão de mensagem e a seta indicando o remetente.
@@ -22,7 +19,7 @@ O projeto consiste em um modelo básico de chat utilizando HTML, CSS para criar 
 
 6. **.sender-name:** Exibe o nome do remetente acima da mensagem.
 
-## Estilo CSS:
+### CSS:
 - **Estilo Global:** Define a aparência global do documento, como a fonte e o fundo.
 
 - **Estilo de Mensagem:** Define a aparência das mensagens, incluindo a sombra, o espaçamento e a largura máxima.
@@ -35,5 +32,34 @@ O projeto consiste em um modelo básico de chat utilizando HTML, CSS para criar 
 
 - **Estilo do Nome do Remetente:** Define a aparência do nome do remetente, como o tamanho da fonte e a cor.
 
-## CONCLUSÃO:
+### CONCLUSÃO:
 Este é um modelo inicial que pode ser personalizado e expandido de acordo com as necessidades específicas do projeto. Adapte-o conforme desejado para atender aos requisitos visuais e funcionais específicos.
+
+## COMO USAR?
+* Clone o repositório para o seu sistema local:
+
+```bash
+git clone https://github.com/VILHALVA/BALOES-DE-CONVERSA.git
+```
+
+* Navegue até o diretório do projeto.
+
+```bash
+cd BALOES-DE-CONVERSA
+```
+
+* Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip BALOES-DE-CONVERSA.zip
+```
+* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
