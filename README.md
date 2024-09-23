@@ -1,7 +1,7 @@
 # BALÕES DE CONVERSA
 💬INTERFACE DE CONVERSA EM GRUPOS!
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="FOTO.jpg" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O projeto consiste em um modelo básico de chat utilizando HTML, CSS para criar uma interface de conversa entre duas pessoas, semelhante ao layout de grupos do Telegram. Cada mensagem no chat possui uma foto de perfil (avatar), o nome da pessoa remetente e um balão de mensagem.
